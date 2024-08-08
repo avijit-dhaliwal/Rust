@@ -1,0 +1,8 @@
+# Rust ignores
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# IDE ignores (if you're using an IDE)
+.idea/
+.vscode/
